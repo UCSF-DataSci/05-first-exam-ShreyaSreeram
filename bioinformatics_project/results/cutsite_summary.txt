@@ -1,0 +1,9 @@
+Analyzing cut site: GGATCC
+Total cut sites found: 237
+Cut site pairs 80–120 kbp apart: 2019
+First 5 pairs with distances:
+1. 7082 - 91498, Distance: 84416 bp
+2. 7082 - 102112, Distance: 95030 bp
+3. 7082 - 102819, Distance: 95737 bp
+4. 7082 - 120509, Distance: 113427 bp
+5. 7082 - 120821, Distance: 113739 bp
